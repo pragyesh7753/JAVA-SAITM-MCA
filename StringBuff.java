@@ -5,6 +5,7 @@ public class StringBuff {
         System.out.println(s1.insert(0, 78));
         System.out.println(s1.capacity());
         System.out.println(s1);
+        System.out.println(s1.append(" Program"));
         s1.toString();  // this will change stringbuffer to string
     }
 }
