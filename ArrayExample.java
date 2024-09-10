@@ -24,5 +24,9 @@ public class ArrayExample {
         arr_ch[2] = 'c';
         arr_ch[3] = 'd';
         arr_ch[4] = 'e';
+
+        int abc[]={5,9,4,3,1};
+        int sum=Integer.MAX_VALUE;
+
     }
 }
